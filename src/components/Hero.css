@@ -3,7 +3,11 @@
 .hero-left h1 {
   font-family: 'Fredoka', sans-serif;
   font-size: 3rem;
-  color: #4b2e2e;
+  color:green;
+}
+
+body{
+  background-color:papayawhip;
 }
 .hero-left button {
     outline: 2px solid red;
@@ -19,7 +23,7 @@
     justify-content: space-between;
     padding: 80px;
     height: 100vh;
-    background: url('/images/bg.png') no-repeat center center;
+    background: url('/images/8.png') no-repeat center center;
     background-size: cover;
     box-sizing: border-box;
     position: relative;
@@ -28,7 +32,7 @@
   .hero-left {
  
  
-    color: #4b2e2e;
+    color:black;
   }
   
   .hero-left h1 {
@@ -49,9 +53,10 @@
   #cta-btn{
     padding: 12px 24px;
     font-size: 1rem;
-    background-color: #ffc7d9;
-    color: #4b2e2e;
-    border: none;
+    background-color:green;
+    font-weight: 800;
+    color:white;
+  
     border-radius: 8px;
     width: 200px;
     display: flex;
@@ -62,7 +67,7 @@
   }
   
   #cta-btn:hover {
-    background-color: #ffadc8;
+    background-color:black;
    
   }
   
@@ -90,7 +95,7 @@ width: 650px;
     justify-content: space-between;
     padding: 100px 80px;
     height: 700px;
-    background-color: #FEE8E5;
+    background-color:rgb(214, 232, 186);
 }
   
   .section1-text {
@@ -123,7 +128,7 @@ width: 700px;
     border-radius: 12px;
   }
   .section2 {
-    background-color: #f9dcdc;
+    background-color:rgb(213, 213, 176);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -167,7 +172,7 @@ width: 700px;
   
   .section2-text button {
     font-family: 'Quicksand', sans-serif;
-    background-color: #ff9a8b;
+    background-color:greenyellow;
     color: white;
     border: none;
     padding: 14px 28px;
@@ -182,7 +187,7 @@ width: 700px;
     background-color: #ff8573;
   }
   .section3 {
-    background-color: 	#F6C6C7;
+    background-color:rgb(192, 212, 162);
     height: 600px;
     display: flex;
     flex-direction: column;
@@ -196,7 +201,7 @@ width: 700px;
     font-size: 42px;
     margin-bottom: 20px;
     font-family: 'Fredoka', sans-serif;
-    color: #5c2e2e;
+    color:black;
     text-align: center;
   }
   .section3 p {
@@ -218,7 +223,7 @@ width: 700px;
   
   .cupcake-card {
     width: 300px;
-    border-radius: 809px 809px 0 0;
+    border-radius: ;
     padding: 2rem 1rem;
     position: relative;
     text-align: center;

@@ -4,7 +4,7 @@ import './Navbar.css';
 const Navbar = () => {
   return (
     <div className="navbar">
-      <div className="logo">DvBakes</div>
+      <div className="logo">Lays</div>
       
       <ul className="nav-items">
         <li><a href="#">Home</a></li>

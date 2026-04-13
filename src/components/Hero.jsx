@@ -166,66 +166,66 @@ const Hero = () => {
         <div className="hero-left">
           <h1>Delight in Every Bite</h1>
           <p>
-            Discover the softest, most whimsical cupcakes made with love and pastel dreams.<br />
-            Each bite is a swirl of joy, handcrafted with delicate flavors and a touch of magic.
+           Chops can be served as a snack, appetizer, or even as part of a main course. They are loved for their crunchy outer layer and soft, flavorful filling inside. Different regions have their own variations of chops,
+           <br></br> using unique spices and ingredients to enhance taste. Overall, chops are a delicious and convenient product that appeals to people of all ages.
           </p>
-          <div id="cta-btn">Explore Cupcakes</div>
+          <div id="cta-btn">Explore Flavours</div>
         </div>
         <div className="hero-right">
-          <img src="/images/hero1.png" style={{width:"50%"}}  alt="Cupcake Hero"  className='hero2'/>
-          <img src="./images/section1.png" alt=""  className='hero1'   ref={hero1Ref}/>
+          <img src="/images/6.png" style={{width:"50%"}}  alt="Cupcake Hero"  className='hero2'/>
+          <img src="./images/9.png" alt=""  className='hero1'   ref={hero1Ref}/>
         </div>
       </div>
     </div>
     <div className="section1" ref={section1Ref}>
   <div className="section1-text">
-    <h1>Fresh From the Oven</h1>
+    <h1>Crispy Goodness </h1>
     <p>
-      Explore our delightful selection of pastel cupcakes, creamy frostings, and charming treats — all nestled on dreamy bakery shelves.
+      Enjoy our delicious range of crunchy chips,packed with bold flavore and satisfying crunch that makes every moment tasty and fun.
     </p>
   </div>
   <div className="section1-image">
-    <img src="/images/cake.png" alt="Bakery Shelf" />
+    <img src="/images/4.png" alt="Bakery Shelf" />
   </div>
 </div>
 <div className="section2">
   <div className="section2-img">
-    <img src="/images/bg1.png" alt="Peach Cupcake" />
+    <img src="/images/5.png" alt="Peach Cupcake" />
   </div>
   <div className="section2-text">
-    <h1>About Our Peach Cupcake</h1>
+    <h1>About Our Bold Flavors</h1>
     <p>
-      Our signature peach cupcake is a soft, pastel dream — made with fresh peach purée,
-      fluffy sponge, and whipped vanilla frosting. It's a perfect balance of fruitiness,
-      sweetness, and charm. Try our seasonal specials topped with sugar flowers and edible glitter!
+     Chops are a popular and versatile food product enjoyed in many cuisines around the world. They are typically made by shaping a 
+     mixture of minced meat, vegetables, or lentils into small portions, which are then 
+     coated with breadcrumbs and fried until crispy.
     </p>
-    <button>Buy Our Peach Cake</button>
+    <button>Buy your taste</button>
   </div>
 </div>
 <div className="section3">
   <div className="section3-text">
-    <h1>Pick your sweetest flavor!</h1>
-    <p>Mine’s lemon — zesty, soft, and always a mood. </p>
+    <h1>Pick and Taste the Crunch You Love!</h1>
+    <p>Mine’s lemon — zesty, Crispy, and always a mood. </p>
   </div>
 
   <div className="cupcake-cards">
     <div className="cupcake-card lemon">
-      <img src="/images/lemon.png" alt="Lemon Cupcake" className="lemon-img"/>
-      <h3>Lemon Delight</h3>
+      <img src="/images/6.png" alt="Lemon Cupcake" className="lemon-img"/>
+      <h3>Spring Onion </h3>
       <p>Lemon zest, sunshine-fresh, and perfectly tangy! </p>
     </div>
 
     <div className="cupcake-card peach">
-      <img src="/images/lemon.png" alt="Lemon Cupcake" className="lemon-img"/>
-      <h3>Peach Blossom</h3>
-      <p>Soft peachy swirl, dreamy & sweet like summer! </p>
+      <img src="/images/9.png" alt="Lemon Cupcake" className="lemon-img"/>
+      <h3>Grilled cheese</h3>
+      <p>Lemon zest, sunshine-fresh, and perfectly tangy!! </p>
     </div>
 
 
   <div className="cupcake-card blueberry">
-      <img src="/images/kk.png" alt="Blueberry Cupcake" className="blueberry-img"/>
-      <h3>Blueberry Bliss</h3>
-      <p>Berry burst with a soft vanilla cloud! </p>
+      <img src="/images/11.png" alt="Blueberry Cupcake" className="blueberry-img"/>
+      <h3>Spanish Tomato</h3>
+      <p>Lemon zest, sunshine-fresh, and perfectly tangy! </p>
     </div>
   </div>
 </div>
